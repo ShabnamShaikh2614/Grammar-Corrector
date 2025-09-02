@@ -13,4 +13,4 @@ It helps students, writers, and developers polish their writing effortlessly.
 
 ---
 
-## 📂 Project Structure
+
